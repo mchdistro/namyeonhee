@@ -154,6 +154,27 @@
             "url": "https://github.com/mchdistro/namyeonhee/raw/main/servers/chuseok-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
             "MD5": "76e0349865f91f315aae087a6e88a84a"
           }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 144,
+            "url": "https://github.com/mchdistro/namyeonhee/raw/main/servers/chuseok-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 101,
+            "url": "https://github.com/mchdistro/namyeonhee/raw/main/servers/chuseok-1.20.1/files/servers.dat",
+            "MD5": "3d55687ba434ad656687e077fb20bbc4",
+            "path": "servers.dat"
+          }
         }
       ]
     }
