@@ -126,6 +126,26 @@
           }
         },
         {
+          "id": "com.gitter.gtdonationapi.fabric.v1_20_1:gtdonationapi:1.0.0@jar",
+          "name": "GT-DonationAPI",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5862259,
+            "url": "https://github.com/mchdistro/namyeonhee/raw/main/servers/chuseok-1.20.1/fabricmods/required/GT-DonationAPI-fabric-1.20.1-1.0.0.jar",
+            "MD5": "eebeaf01f26450192c60eb2671cbeeb2"
+          }
+        },
+        {
+          "id": "com.gitter:gtnick:1.0.0@jar",
+          "name": "GtNick",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 66642,
+            "url": "https://github.com/mchdistro/namyeonhee/raw/main/servers/chuseok-1.20.1/fabricmods/required/gtnick-fabric-1.20.1-1.0.0.jar",
+            "MD5": "ea7ea322aba92d72040b0ebd7bb11dd9"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.7.6+mc1.20.1@jar",
           "name": "Iris",
           "type": "FabricMod",
