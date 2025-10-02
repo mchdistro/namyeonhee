@@ -9,11 +9,11 @@
   "servers": [
     {
       "id": "chuseok-1.20.1",
-      "name": "추석 단기 서버",
+      "name": "두찌두알",
       "description": "Minecraft 1.20.1 (Fabric v0.17.2)",
       "icon": "https://github.com/mchdistro/namyeonhee/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "mc.gotiger.dev:25561",
+      "address": "mc.gotiger.dev:20005",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -190,9 +190,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 101,
+            "size": 96,
             "url": "https://github.com/mchdistro/namyeonhee/raw/main/servers/chuseok-1.20.1/files/servers.dat",
-            "MD5": "3d55687ba434ad656687e077fb20bbc4",
+            "MD5": "17d58482c81d36686e6394229ef7acc7",
             "path": "servers.dat"
           }
         }

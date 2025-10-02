@@ -2,10 +2,10 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/namyeonhee/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "추석 단기 서버",
+    "name": "두찌두알",
     "description": "Minecraft 1.20.1 (Fabric v0.17.2)",
     "icon": "https://github.com/mchdistro/namyeonhee/raw/main/server-icon.png",
-    "address": "mc.gotiger.dev:25561",
+    "address": "mc.gotiger.dev:20005",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
