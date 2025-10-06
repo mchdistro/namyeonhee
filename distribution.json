@@ -166,6 +166,16 @@
           }
         },
         {
+          "id": "su.plo.voice:plasmovoice:2.1.6@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12201776,
+            "url": "https://github.com/mchdistro/namyeonhee/raw/main/servers/chuseok-1.20.1/fabricmods/required/plasmovoice-fabric-1.20.1-2.1.6.jar",
+            "MD5": "2d941bdf4fb04f311ffb24c0d49bc6cf"
+          }
+        },
+        {
           "id": "me.jellysquid.mods:sodium:0.5.13+mc1.20.1@jar",
           "name": "Sodium",
           "type": "FabricMod",
