@@ -126,16 +126,6 @@
           }
         },
         {
-          "id": "com.gitter.gtdonationapi.fabric.v1_20_1:gtdonationapi:1.0.0@jar",
-          "name": "GT-DonationAPI",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 5862259,
-            "url": "https://github.com/mchdistro/namyeonhee/raw/main/servers/chuseok-1.20.1/fabricmods/required/GT-DonationAPI-fabric-1.20.1-1.0.0.jar",
-            "MD5": "eebeaf01f26450192c60eb2671cbeeb2"
-          }
-        },
-        {
           "id": "com.gitter.gtdonationapi.fabric.v1_20_1:gtdonationapi:2.0.0@jar",
           "name": "GT-DonationAPI",
           "type": "FabricMod",
